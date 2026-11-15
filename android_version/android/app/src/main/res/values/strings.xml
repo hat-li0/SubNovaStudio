@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubNova Studio</string>
+    <string name="app_name_ar">استوديو سوب نوفا للترجمة الفائقة</string>
+    <string name="developer_name">حاتم الحربي (Hatim Alharbi)</string>
+    <string name="app_version">2.0.0</string>
+    <string name="copyright_text">جميع الحقوق محفوظة © 2026 حاتم الحربي</string>
+    <string name="app_description">نظام الترجمة والتنقية السينمائية الفائقة لملفات الفيديو والشاشة مع محرك الذكاء الاصطناعي وحصانة وسوم Aegisub.</string>
+</resources>

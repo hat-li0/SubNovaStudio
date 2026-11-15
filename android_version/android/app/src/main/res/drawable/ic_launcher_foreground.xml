@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtitle Frame Card -->
+    <path
+        android:fillColor="#162035"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M24,32h60a8,8 0 0,1 8,8v28a8,8 0 0,1 -8,8h-60a8,8 0 0,1 -8,-8v-28a8,8 0 0,1 8,-8z" />
+    
+    <!-- Subtitle dialogue wave line 1 (Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M28,62h22a2,2 0 0,1 2,2v1a2,2 0 0,1 -2,2h-22a2,2 0 0,1 -2,-2v-1a2,2 0 0,1 2,-2z" />
+    
+    <!-- Subtitle dialogue wave line 2 (Green) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M56,62h24a2,2 0 0,1 2,2v1a2,2 0 0,1 -2,2h-24a2,2 0 0,1 -2,-2v-1a2,2 0 0,1 2,-2z" />
+
+    <!-- Center Nova Star (Gold & White) -->
+    <!-- Vertical and Horizontal diamond -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,38 L57.5,47.5 L67,51 L57.5,54.5 L54,64 L50.5,54.5 L41,51 L50.5,47.5 Z" />
+    
+    <!-- Inner bright star core -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,43 L56,49 L62,51 L56,53 L54,59 L52,53 L46,51 L52,49 Z" />
+
+    <!-- Corner brackets -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M28,39h-3v-3" />
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M80,69h3v3" />
+</vector>

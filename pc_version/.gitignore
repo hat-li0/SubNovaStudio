@@ -1,0 +1,30 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Build & packaging outputs
+build/
+dist/
+*.spec.bak
+
+# Local runtime DB, configs, logs, crash dumps
+subtitler.db
+*.db
+*.db-wal
+*.db-shm
+*.bak
+config.json
+crash.log
+logs/
+
+# Generated subtitle outputs & temporary files
+*.ara.ass
+*.ara.srt
+*.ara.vtt
+*.bi.ass
+*.bi.srt
+*.bi.vtt
+*.ckpt
+temp_extracted/

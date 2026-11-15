@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+venv/
+env/
+.env
+
+# PyInstaller & build outputs
+build/
+dist/
+*.spec.bak
+
+# Local databases, configs, logs, crash dumps
+subtitler.db*
+*.db
+*.db-wal
+*.db-shm
+*.bak
+*.log
+logs/
+crash.log
+config.json
+
+# Generated subtitle outputs & temporary files
+*.ara.ass
+*.ara.srt
+*.ara.vtt
+*.bi.ass
+*.bi.srt
+*.bi.vtt
+*.ckpt
+temp_extracted/
+
+# Android & Gradle
+.gradle/
+.kotlin/
+**/build/
+**/bin/
+captures/
+*.apk
+*.aab
+*.ap_
+output-metadata.json
+local.properties
+.idea/
+*.iml
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backups
+backups/
